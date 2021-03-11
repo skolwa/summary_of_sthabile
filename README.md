@@ -19,7 +19,7 @@ All in all, in my repos you will find both formal work as well as some fun pet p
 
 I also maintain a presence on [Twitter](http://twitter.com/sthabile_kolwa) where I try hard to keep my controversy downto a minimum. 
 
-You can also find me on [Medium](https://medium.com/@sthabs.k) where I gravitate to articles on tech, data science and cybersecurity. 
+You can also find me on [Medium](https://sthabile.medium.com/) where I gravitate to articles on tech, data science and cybersecurity. 
 
 For a summary of my professional profile, [LinkedIn](https://www.linkedin.com/in/sthabile-kolwa/) is the one!
 
