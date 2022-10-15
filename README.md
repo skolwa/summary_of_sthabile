@@ -14,7 +14,7 @@ For my research work in Astrophysics, I make use of both observations and modell
 - Star-formation and stellar masses of radio-selected galaxies at z > 2
 - Lyman-alpha radiative transfer modelling of diffuse ionised gas haloes
 
-
+A comprehensive list of my current work is available on [ORCID](https://orcid.org/0000-0001-9821-4987). 
 
 Aside from Astrophysics, I have spent some time working on a few exploratory data science and machine-learning projects all of which are made public via [Kaggle](http://kaggle.com/sthabile). 
 
