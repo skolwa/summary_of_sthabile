@@ -2,29 +2,27 @@
 
 <img src="hello_world_giphy.gif" height="200">
 
-### Nice to meet you.
-
-### Sthabile Kolwa, here!
+### Pleased to meet you.
 
 
-Some call me Thabs for short.
+I'm Sthabile (Thabs), an astronomer and lecturer at the Physics department of the University of Johannesburg in South Africa. 
 
-I'm an early-career Astronomer and lecturer at the University of Johannesburg. 
+For my research work in Astrophysics, I make use of both observations and modelling to study galaxies at high-redshift. My research involves: 
 
-In my research, I specialise in observational Astrophysics with a specific interest in rather exotic galaxies known to emit significant amounts of radio emission. These objects are known as [radio galaxies](https://en.wikipedia.org/wiki/Radio_galaxy) and I have spent a considerable amount of time trying to find out more about the kinematics and chemical composition of the gas surrounding them using model-fitting techniques such as Markov Chain Monte Carlo evaluation and non-linear least squares fitting. This is all done for the sake of learning more about how radio galaxies evolve. 
+- Investigations of the role of galaxy group environment and radio AGN jet-power
+- Kinematic studies of the circumgalactic medium 
+- Star-formation and stellar masses of radio-selected galaxies at z > 2
+- Lyman-alpha radiative transfer modelling of diffuse ionised gas haloes
 
-In my research, I extracted ground-based and space-based telescope data and analysed it using modules that I wrote primarily in **Python**. Since, I also have a keen interest in data science, I spend some of my time carrying out exploratory data analysis and predictive modelling. 
 
-All in all, in my repos you will find both formal work as well as some fun pet projects I like to execute in order to keep my skills up and continually improving. Some of the Jupyter Notebooks I post here may be work that I featured on my [Kaggle profile](http://kaggle.com/sthabile). 
 
-I also maintain a presence on [Twitter](http://twitter.com/sthabile_kolwa) where I try hard to keep my controversy downto a minimum. 
+Aside from Astrophysics, I have spent some time working on a few exploratory data science and machine-learning projects all of which are made public via [Kaggle](http://kaggle.com/sthabile). 
 
-You can also find me on [Medium](https://sthabile.medium.com/) where I gravitate to articles on tech, data science and cybersecurity. 
+You can find me on [Twitter](http://twitter.com/sthabile_kolwa) as well where I stay a few things from time to time. I try to make time to write articles on [Medium](https://sthabile.medium.com/) where the topics of discussion are generally coding and astronomy. 
 
-For a summary of my professional profile, [LinkedIn](https://www.linkedin.com/in/sthabile-kolwa/) is the one!
+Find me [LinkedIn](https://www.linkedin.com/in/sthabile-kolwa/) if you'd like to establish a professional connection with me. 
 
-For direct contact, hit me up at: sthabile.kolwa@gmail.com 
-I am very keen to partake in Kaggle competitions and open source projects. 
 
+Otherwise...
 
 ### Happy coding!
